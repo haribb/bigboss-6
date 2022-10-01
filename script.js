@@ -167,7 +167,7 @@ window.addEventListener("keypress", function (event) {
     if(toggle.contains("active")){ 
      
   
-    
+    video.pause()
       // randomName
       event.preventDefault();
       let random = randomTask[Math.floor(Math.random() * randomTask.length)];
