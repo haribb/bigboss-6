@@ -14,7 +14,7 @@ let randomTask = [
   },
   {
     english: "Sword fight with an imaginary person ",
-    tamil: "கற்பனையான கத்தியோட, கற்பனையான எதிராளியோட சண்டபோடுங்க!",
+    tamil: "கற்பனையான கத்தியோட, கற்பனையான எதிராளியோட சண்ட போடுங்க!",
     timer: "",
     taskname:"Your Task"
   },
@@ -51,7 +51,7 @@ let randomTask = [
   },
   {
     english: "Wrap yourself fully with tissue paper in a minute",
-    tamil: "ஒரு நிமிஷத்துக்குள்ள Tissue paper-ஆல உங்க உடலமுழுமையா சுத்தணும்",
+    tamil: "ஒரு நிமிஷத்துக்குள்ள Tissue paper-ஆல உங்க உடல முழுமையா சுத்தணும்",
     timer: 60,
     taskname:"Your Task"
   },
@@ -63,7 +63,7 @@ let randomTask = [
   },
   {
     english: "Keep a biscuit on your forehead, eat it without using your hands",
-    tamil: "Biscuit-ஆஹ்உங்க நெற்றியில வெச்சு கைகளோட உதவி இல்லாம சாப்பிடணும்!",
+    tamil: "Biscuit-ஆஹ் உங்க நெற்றியில வெச்சு கைகளோட உதவி இல்லாம சாப்பிடணும்!",
     timer: "",
     taskname:"Your Task"
   },
@@ -127,7 +127,7 @@ function myClock() {
       clearInterval(myTimer); 
     }
     // timer.innerText = "0" + minutes + ":" + seconds;
-    c===0?timer.innerText="Time Over":timer.innerText=c;
+    c===0?timer.innerText="Thank You":timer.innerText=c;
   }
 }
 
