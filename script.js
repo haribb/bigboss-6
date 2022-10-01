@@ -20,7 +20,7 @@ let randomTask = [
   },
   {
     english: "Run backwards on the spot",
-    tamil: "நின்ன எடத்துல இருந்தே ஓடணும்.. ஆனாமுன்னாடி இல்லபின்னாடி!",
+    tamil: "நின்ன எடத்துல இருந்தே ஓடணும்.. ஆனா முன்னாடி இல்ல பின்னாடி!",
     timer: "",
     taskname:"Your Task"
   },
@@ -45,7 +45,7 @@ let randomTask = [
   {
     english: "Hoop clockwise and anti-clockwise",
     tamil:
-      "அந்த வளையத்த உங்க உடல்ல வெச்சு, கைகள பயன்படுத்தாம, கீழ விழாமமுன்னும் பின்னும் சுத்தணும்",
+      "அந்த வளையத்த உங்க உடல்ல வெச்சு, கைகள பயன்படுத்தாம, கீழ விழாம முன்னும் பின்னும் சுத்தணும்",
     timer: 60,
     taskname:"Your Task"
   },
@@ -71,14 +71,14 @@ let randomTask = [
     english:
       "With a minute dismantle the order of the cups and rearrange it one by one.",
     tamil:
-      "ஒரு நிமிஷத்துக்குள்ள மேல இருக்க மஞ்சள் கப்ப மேல இருந்து கீழ கொண்டு வந்து மீண்டும் மேல கொண்டு போகணும.",
+      "ஒரு நிமிஷத்துக்குள்ள மேல இருக்க மஞ்சள் கப்ப மேல இருந்து கீழ கொண்டு வந்து மீண்டும் மேல கொண்டு போகணும்.",
     timer: 60,
     taskname:"Your Task"
   },
   {
     english: " Swirl 10 balls with a cup and put them in the bowl in a min  ",
     tamil:
-      "ஒரு நிமிஷத்துக்குள்ள 10 பந்துகள ஒரு கப்ப வெச்சு சுழட்டிகிட்டேகொண்டு போய் பக்கத்துல இருக்க பாத்திரத்துல போடணும்!",
+      "ஒரு நிமிஷத்துக்குள்ள 10 பந்துகள ஒரு கப்ப வெச்சு சுழட்டிகிட்டே கொண்டு போய் பக்கத்துல இருக்க பாத்திரத்துல போடணும்!",
     timer: 60,
     taskname:"Your Task"
   },
@@ -90,7 +90,7 @@ let randomTask = [
   },
   {
     english: "Hold a Karagam on the head for 2 minutes. ",
-    tamil: "கரகத்த தலையில வெச்சு கீழ விழாம 2 நிமிடம் நிக்கணும.",
+    tamil: "கரகத்த தலையில வெச்சு கீழ விழாம 2 நிமிடம் நிக்கணும்.",
     timer: 120,
     taskname:"Your Task"
   },
@@ -104,7 +104,7 @@ let randomTask = [
   },
   {
     english: "Arrange playing cards in a triangle shape.",
-    tamil: "இந்த சீட்டு கட்டுகளமுக்கோணவடிவுல அடுக்கணும.",
+    tamil: "இந்த சீட்டு கட்டுகள முக்கோண வடிவுல அடுக்கணும்.",
     timer: 60,
     taskname:"Your Task"
   },
